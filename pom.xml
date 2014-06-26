@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>executable</artifactId>
-    <version>0.1.2-SNAPSHOT</version>
+    <version>0.1.2</version>
     <name>executable</name>
     <description>WebJar for executable</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/executable</url>
         <connection>scm:git:https://github.com/webjars/executable.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/executable.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>executable-0.1.2</tag>
     </scm>
 
     <developers>
